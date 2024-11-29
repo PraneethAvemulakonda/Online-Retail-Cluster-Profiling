@@ -53,7 +53,7 @@ Requirements
 
 Ensure the following R packages are installed:
 
-install.packages(c("readxl", "dplyr", "ggplot2", "cluster", "factoextra", "scales", "shiny", "shinythemes"))
+    install.packages(c("readxl", "dplyr", "ggplot2", "cluster", "factoextra", "scales", "shiny", "shinythemes"))
 
 If R is not installed, download it from CRAN.
 
@@ -63,11 +63,11 @@ Installation
 
 1.  Clone the Repository:
 
-git clone https://github.com/PraneethAvemulakonda/Online-Retail-Cluster-Profiling.git
+        git clone https://github.com/PraneethAvemulakonda/Online-Retail-Cluster-Profiling.git
 
 2.  Navigate to the Project Directory:
 
-cd Online-Retail-Cluster-Profiling
+        cd Online-Retail-Cluster-Profiling
 
 3.  Open R or RStudio.
 
