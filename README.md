@@ -63,11 +63,11 @@ Installation
 
 1.  Clone the Repository:
 
-                        git clone https://github.com/yourusername/online-retail-analysis.git
+                        git clone https://github.com/PraneethAvemulakonda/Online-Retail-Cluster-Profiling.git
 
 2.  Navigate to the Project Directory:
 
-                        cd online-retail-analysis
+                        cd Online-Retail-Cluster-Profiling
 
 3.  Open R or RStudio.
 
