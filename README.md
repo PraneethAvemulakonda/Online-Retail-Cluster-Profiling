@@ -182,6 +182,8 @@ Usage
 License
 -------
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 This project is created by [Praneeth Avemulakonda], MSc Applied Data Science, Teesside University as part of professional internship for the ThinkPacific Foundation (https://thinkpacific.com/). Project was created during the period of [ 23-September-2024 | 13-December-2024 ].
 
 Contact
